@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>ru.netology</groupId>
-    <artifactId>jdbc-task2</artifactId>
+    <artifactId>jdbc-migrations</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbc-task2</name>
+    <name>jdbc-migrations</name>
 
     <properties>
         <java.version>17</java.version>
